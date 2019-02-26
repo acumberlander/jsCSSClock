@@ -40,6 +40,7 @@ body {
 .hand {
   width: 50%;
   height: 6px;
+  border-radius: 3rem;
   background: black;
   position: absolute;
   top: 50%;
@@ -51,9 +52,11 @@ body {
 
 .second-hand {
   height: 2px;
+  /* border-radius: 3rem; */
 }
 
 .hour-hand {
   width: 30%;
   margin-left: 62px;
+  /* border-radius: 3rem; */
 }
